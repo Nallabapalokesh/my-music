@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Song One",
+    "artist": "Ariana Grande",
+    "audioUrl": "https://raw.githubusercontent.com/Nallabapalokesh/my-music/blob/main/songs/7_Rings.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Song Two",
+    "artist": "Ariana Grande",
+    "audioUrl": "https://raw.githubusercontent.com/Nallabapalokesh/my-music/blob/main/songs/God_Is_A_Woman.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Song Three",
+    "artist": "Ariana Grande",
+    "audioUrl": "https://raw.githubusercontent.com/Nallabapalokesh/my-music/blob/main/songs/Side_To_Side.mp3"
+  }
+]
